@@ -2,4 +2,5 @@ package variable
 
 //name
 
-var Name = "NoteOrbit"
+var Name = "Note"
+var LastName = "Orbit"
